@@ -62,5 +62,5 @@ Top 5 Processes by Memory Usage:
 
 ## Project Repository
 
-You can find more project repository at:
+You can find more project details at:
 [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
